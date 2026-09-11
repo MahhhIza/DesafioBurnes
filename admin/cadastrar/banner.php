@@ -1,4 +1,3 @@
-// primeira alteração
 <?php
     if (!isset($pagina)) exit;
 
